@@ -5,7 +5,7 @@
  */
 package Logica;
 
-import IGU.FormuFallido;
+import IGU.Formulario;
 
 /**
  *
@@ -17,7 +17,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        FormuFallido princi = new FormuFallido();
+        Formulario princi = new Formulario();
         princi.setVisible(true);
         princi.setLocationRelativeTo(null);
     }
