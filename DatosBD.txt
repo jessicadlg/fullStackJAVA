@@ -1,0 +1,4 @@
+datos:
+Ususario: pel
+Contraseña: 12345
+bd:peluqueria
